@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "next": "^16.0.1",
+    "react-dom": "^19.2.0"
+  }
+}
